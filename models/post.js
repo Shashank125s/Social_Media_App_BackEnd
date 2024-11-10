@@ -1,8 +1,4 @@
-//first require mongoose
-//then create a connection
-//then create a schema
-//then create a model and export the model
-//then require the model in app.js
+
 
 const mongoose  = require('mongoose');
 
