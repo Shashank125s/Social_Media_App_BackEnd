@@ -1,14 +1,4 @@
-// require('./config/multer'); // Imports multer configuration.
-// setup diskstorage
-// export upload variable 
-// setup limits
-// setup multer
-// setup single upload
-// setup multiple upload
-// setup upload array
-// setup upload fields
-// setup upload none
-// setup upload any
+
 
 
 const multer = require('multer');
