@@ -16,7 +16,6 @@ A basic social media application built with Node.js, Express, MongoDB, and EJS f
 - **Node.js**: Server-side JavaScript runtime.
 - **Express.js**: Web application framework for handling routes and middleware.
 - **MongoDB**: NoSQL database for storing user and post data.
-- **Mongoose**: MongoDB object modeling for Node.js.
 - **EJS**: Embedded JavaScript templates for rendering dynamic HTML pages.
 - **JWT (jsonwebtoken)**: For secure token-based authentication.
 - **bcrypt**: For hashing passwords.
